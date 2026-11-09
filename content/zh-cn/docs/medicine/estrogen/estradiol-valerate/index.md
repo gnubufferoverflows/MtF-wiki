@@ -14,13 +14,35 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 
 ### Progynova<sup>&reg;</sup> 补佳乐<sup>&reg;</sup>
 
-|                        中国包装                         |                       泰国包装 (2mg)                       |
-| :-----------------------------------------------------: | :--------------------------------------------------------: |
-| ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg) |
+|                    中国包装（旧版）                     |
+| :-----------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova.jpg) |
 
-|                        德国包装                            |                       印度包装                              |
-| :--------------------------------------------------------: | :--------------------------------------------------------: |
-| ![!](/images/medicine/estradiol-valerate/progynova-de.png) | ![!](/images/medicine/estradiol-valerate/progynova-in.png) |
+|                          中国包装(新版)正面                          |                         中国包装(新版)背面                          |                           中国包装(新版)药片                           |
+| :------------------------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova-cn-new-front.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-cn-new-back.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-cn-new-blister.jpg) |
+
+> 注：自 2025 年中以后，中国大陆销售的补佳乐陆续更换为粉色系新包装设计，药片外观（淡黄色糖衣片）不变，规格仍为 1mg × 21 片/盒。
+
+|                        泰国包装(旧版)(2mg)                        |
+| :---------------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg) |
+
+|                        泰国包装(新版)(2mg)                        |
+| :---------------------------------------------------------: |
+| ![!](https://raw.githubusercontent.com/typezhi/Medicine/main/progynova/product.jpg) |
+
+> 注：自 2026 年 9 月以后泰国在售包装的商标已改为 AMDIPHAR 但实际生产仍为拜耳，
+
+- 说明书：[扫描件](https://raw.githubusercontent.com/typezhi/Medicine/main/progynova/Manual26m.png)
+
+|                          德国包装                          |
+| :--------------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova-de.png) |
+
+|                          印度包装                          |
+| :--------------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova-in.png) |
 
 - 药品名称：戊酸雌二醇片（Progynova<sup>&reg;</sup> 补佳乐<sup>&reg;</sup>）
 - 药品类型：单方制剂
@@ -70,8 +92,8 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 
 ### 仙琚 仙静&reg;
 
-|                    仅限中国大陆                   |
-| :--------------------------------------------------: |
+|                      仅限中国大陆                      |
+| :----------------------------------------------------: |
 | ![!](/images/medicine/estradiol-valerate/xianjing.jpg) |
 
 - 内含：单方戊酸雌二醇片
